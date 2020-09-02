@@ -1,4 +1,5 @@
 #Project Euler - Problem 1
+#Pranav Mital
 
 counter = 0
 
