@@ -12,7 +12,7 @@ while fibo_term < 4000000:
     if fibo_term % 2 == 0:
         fibo_even_sum += fibo_term
     fibo_series.append(fibo_term)
-    n = len(fibo_series)-1
+    n = len(fibo_series)-1 # can also write n += 1
 
 print("The sum is:",fibo_even_sum)
 
